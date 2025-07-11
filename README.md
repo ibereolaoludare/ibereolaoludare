@@ -1,42 +1,54 @@
 <!-- Profile README for Ibereola Oludare -->
 
-<h1 align="center">Hi, I'm Ibereola Oludare 👋</h1>
-<h3 align="center">Web Designer & Developer | Abuja, Nigeria</h3>
+<h1 align="center">hey, i'm ibereola oludare 👋</h1>
+<h3 align="center">web designer & developer • abuja, nigeria</h3>
 
 <p align="center">
-  <img src="https://ibereola.dev/og-default.svg" alt="Ibereola Oludare Banner" width="80%" />
+  <img src="https://ibereolaoludare.vercel.app/og-default.svg" alt="Ibereola Oludare Banner" width="80%" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-I'm a passionate web designer and developer from Abuja, Nigeria. At just 16, I've spent over 5 years building, designing, and experimenting with the web. My journey started with curiosity and quickly turned into a love for creating beautiful, interactive, and user-friendly digital experiences.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS
-- **Frameworks:** React, Next.js, Vite
-- **Styling:** Tailwind CSS, Styled Components
-- **Animation:** Framer Motion, GSAP
-- **Tools:** Git, GitHub, Figma, VS Code
-- **Other:** Supabase, Firebase, REST APIs
+<p align="center">
+  <b>i build beautiful, interactive, and accessible web experiences.<br>
+  passionate about design, code, and making the web a better place.</b>
+</p>
 
 ---
 
-### 🌍 Connect with Me
+### 🛠 tech stack
 
-[![Portfolio](https://img.shields.io/badge/website-ibereola.dev-61B8EC?style=flat-square&logo=google-chrome)](https://ibereola.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ibereolaisbored)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/danieltw33ts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibereola-oludare-095814287/)
-[![Gmail](https://img.shields.io/badge/email-ibereola2906@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibereola2906@gmail.com)
+- **languages:** javascript, typescript, html5, css3, scss
+- **frameworks:** react, next.js, vite
+- **styling:** tailwind css, styled components
+- **animation:** framer motion, gsap
+- **tools:** git, github, figma, vs code
+- **other:** supabase, firebase, rest apis
 
 ---
 
-### 📈 GitHub Stats
+### 🌍 connect with me
+
+<p align="center">
+  <a href="https://ibereolaoludare.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-ibereolaoludare.vercel.app-61B8EC?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://instagram.com/ibereolaisbored" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/danieltw33ts" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ibereola-oludare-095814287/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ibereola2906@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-ibereola2906@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ fun facts
+
+- started coding at 11, still obsessed.
+- love clean ui, smooth animations, and pixel-perfect layouts.
+- believe the best web is both beautiful and accessible.
+- always learning, always building.
+
+---
+
+### 📈 github stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibereolaoludare&show_icons=true&theme=radical" alt="Ibereola's GitHub stats" />
@@ -45,14 +57,6 @@ I'm a passionate web designer and developer from Abuja, Nigeria. At just 16, I'v
 
 ---
 
-### ✨ Fun Facts
-
-- I started coding at 11 and haven’t stopped since.
-- I’m obsessed with clean UI, smooth animations, and pixel-perfect layouts.
-- I believe the best web experiences are both beautiful and accessible.
-
----
-
 <p align="center">
-  <b>Let’s build something amazing together! 🚀</b>
+  <b>let’s build something amazing together! 🚀</b>
 </p>
