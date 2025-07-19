@@ -19,11 +19,11 @@
 ### 🛠 tech stack
 
 - **languages:** javascript, typescript, html5, css3, scss
-- **frameworks:** react, next.js, vite
+- **frameworks:** react, vite
 - **styling:** tailwind css, styled components
 - **animation:** framer motion, gsap
 - **tools:** git, github, figma, vs code
-- **other:** supabase, firebase, rest apis
+- **other:** supabase, firebase, appwrite, tanstack query, rest apis
 
 ---
 
